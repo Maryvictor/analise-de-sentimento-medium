@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.7
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Nao gostei, faz muito barulho e apresentou defeito no display"
+      }
+    }
+  ]
+}

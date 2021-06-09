@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "O equipamento funciona muito bem, o pre?o esta perfeito, mas a panela deve ser manuseada com muito cuidado para nao se queimar"
+      }
+    }
+  ]
+}

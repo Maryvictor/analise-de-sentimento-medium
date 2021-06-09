@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": 0.9
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Muito bom de fazer receitas diversas."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 38,
+        "content": "Vale a compra, facilita e agiliza muita coisa."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 85,
+        "content": "Os alimentos ficam saborosos e mais leves."
+      }
+    }
+  ]
+}

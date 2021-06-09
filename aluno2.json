@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.7
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Odeio a escola, odeio estudar, nao gosto dos meus colegas"
+      }
+    }
+  ]
+}

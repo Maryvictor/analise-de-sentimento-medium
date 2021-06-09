@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.0,
+    "score": 0.0
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Um dia normal como todos os outros, preferia estar jogando video game"
+      }
+    }
+  ]
+}
